@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Aleksandr Klyuchnik](https://up.htmlacademy.ru/javascript-individual/2/user/2342117).
-* Наставник: `Неизвестно`.
+- Студент: [Aleksandr Klyuchnik](https://up.htmlacademy.ru/javascript-individual/2/user/2342117).
+- Наставник: `Николай Усов`.
 
 ---
 
